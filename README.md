@@ -1,4 +1,4 @@
-# Jordy-Montalvo
+
 ![Banner](https://mi-banner-url.com/banner.jpg)
 
 Soy un ingeniero de software apasionado por la tecnología y la innovación. Aquí hay un poco más sobre mí y mis proyectos:
