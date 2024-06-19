@@ -1,4 +1,5 @@
-![GIF](https://raw.githubusercontent.com/JordyMontalvo/banner.gif)
+<img src="https://raw.githubusercontent.com/JordyMontalvo/banner.gif" alt="GIF" width="500"/>
+
 
 
 
