@@ -1,4 +1,4 @@
-![Banner](banner de youtube gamer .gif)
+![Banner](/banner de youtube gamer .gif)
 
 Soy un ingeniero de software apasionado por la tecnología y la innovación. Aquí hay un poco más sobre mí y mis proyectos:
 
