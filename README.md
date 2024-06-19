@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/JordyMontalvo/banner%20de%20youtube%20gamer.gif)
+[Ver Video](https://raw.githubusercontent.com/JordyMontalvo/JORDY%.mp4)
+
 
 
 
