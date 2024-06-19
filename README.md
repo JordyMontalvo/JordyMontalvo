@@ -24,25 +24,12 @@ Soy un ingeniero de software apasionado por la tecnología y la innovación. Aqu
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ## 🔗 Conecta Conmigo
-
+[![WhatsApp](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-joseph-montalvo/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tu-perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
 
-## 📘 Últimos Blogs
 
-<!-- BLOG-POST-LIST:START -->
-- [Título del Blog 1](https://link-al-blog-1.com)
-- [Título del Blog 2](https://link-al-blog-2.com)
-- [Título del Blog 3](https://link-al-blog-3.com)
-<!-- BLOG-POST-LIST:END -->
 
-## 🏆 Trofeos de GitHub
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark)
