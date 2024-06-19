@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1517430816045-df4b7de8d4c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEzfHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE2MjY3NzMxMDE&ixlib=rb-1.2.1&q=80&w=1080)
+![Banner](banner de youtube gamer .gif)
 
 Soy un ingeniero de software apasionado por la tecnología y la innovación. Aquí hay un poco más sobre mí y mis proyectos:
 
