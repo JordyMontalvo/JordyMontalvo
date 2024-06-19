@@ -1,4 +1,4 @@
-[Ver Video](https://raw.githubusercontent.com/JordyMontalvo/JORDY%.mp4)
+![GIF](https://raw.githubusercontent.com/JordyMontalvo/banner.gif)
 
 
 
