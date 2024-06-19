@@ -1,4 +1,4 @@
-![Banner](https://github.com/JordyMontalvo/JordyMontalvo/raw/master/Banner.gif)
+![Banner](https://github.com/JordyMontalvo/JordyMontalvo/raw/master/banner.gif)
 
 
 
