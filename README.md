@@ -1,15 +1,11 @@
-![Banner](https://mi-banner-url.com/banner.jpg)
+![Banner](https://images.unsplash.com/photo-1517430816045-df4b7de8d4c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEzfHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE2MjY3NzMxMDE&ixlib=rb-1.2.1&q=80&w=1080)
 
 Soy un ingeniero de software apasionado por la tecnología y la innovación. Aquí hay un poco más sobre mí y mis proyectos:
 
 ## 🚀 Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo **React y TypeScript**
-- 💼 Trabajo en **[Nombre de la Empresa](https://empresa.com)**
-- 🧑‍💻 Me encanta contribuir a proyectos de **código abierto**
-- 💬 Pregúntame sobre **JavaScript, Python, y Desarrollo Web**
 - 📫 Cómo contactarme: [jordyjosephmontalvo@gmail.com](mailto:jordyjosephmontalvo@gmail.com)
-- ⚡ Dato curioso: Me encanta el senderismo y la fotografía
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -25,11 +21,9 @@ Soy un ingeniero de software apasionado por la tecnología y la innovación. Aqu
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-
 ## 🔗 Conecta Conmigo
-[![WhatsApp](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-joseph-montalvo/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-joseph-montalvo/)
 
 
 
