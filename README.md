@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/JordyMontalvo/JordyMontalvo/banner de youtube gamer .gif)
+![Banner](https://raw.githubusercontent.com/JordyMontalvo/banner%20de%20youtube%20gamer.gif)
+
 
 
 Soy un ingeniero de software apasionado por la tecnología y la innovación. Aquí hay un poco más sobre mí y mis proyectos:
