@@ -51,7 +51,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 
 
-## <b> Contact</b><img src="" width ="80">
+## <b> Contact</b>
 <br>
 <div align='left'>
 
