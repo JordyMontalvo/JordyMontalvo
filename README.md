@@ -51,7 +51,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 
 
-## <b> Contact</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contact</b><img src="" width ="80">
 <br>
 <div align='left'>
 
