@@ -6,7 +6,7 @@
 
 
 <h1 align="center"><b>Hi , I'm Jordy Montalvo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Software+Engginer;Apassionate+by+technology+👨‍💻;"></a>
 </p>
@@ -39,7 +39,6 @@
     [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,php,java)](https://skillicons.dev)
 
 
-
 - **Databases**:
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)
@@ -50,20 +49,7 @@
     [![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,postman,linux,docker,vscode,git,github,css,html)](https://skillicons.dev)
 
 
-- **Extras**:
-  
-    [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,bash,powershell,discord,gmail,notion)](https://skillicons.dev)
 
-<br>
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
