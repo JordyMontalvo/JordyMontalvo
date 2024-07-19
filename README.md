@@ -37,7 +37,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 - **Programming Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,php,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,java)](https://skillicons.dev)
 
 
 - **Databases**:
@@ -47,7 +47,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=react,express,tailwind,postman,linux,docker,vscode,git,github,css,html)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=,express,tailwind,postman,docker,vscode,git,github,css,html)](https://skillicons.dev)
 
 
 
@@ -58,16 +58,16 @@ Throughout my academic journey, I have actively participated in projects that de
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/joshuayherrera" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Joshua Alvarez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="www.linkedin.com/in/jordy-joseph-montalvo-" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Jordy Montalvo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:joshuayherrera@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Joshua Alvarez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:jordyjosephmontalvo@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Jordy Montalvo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -82,7 +82,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 <div align='center'>
 
-## <b>May peace, mercy and God's blessings be upon you. ✨</b>
+## <b>Trank you for visit. ✨</b>
 
 </div>
 
