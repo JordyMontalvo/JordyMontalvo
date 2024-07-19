@@ -58,7 +58,7 @@ Throughout my academic journey, I have actively participated in projects that de
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/jordy-joseph-montalvo-" target="_blank">
+<a href="https://www.linkedin.com/in/jordy-joseph-montalvo-" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jordy Montalvo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
