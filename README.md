@@ -47,11 +47,11 @@ Throughout my academic journey, I have actively participated in projects that de
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=,express,tailwind,postman,docker,vscode,git,github,css,html)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=express,vscode,git,github,css,html)](https://skillicons.dev)
 
 
 
-## <b> Contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contact</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
