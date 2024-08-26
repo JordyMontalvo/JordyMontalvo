@@ -85,6 +85,9 @@ Throughout my academic journey, I have actively participated in projects that de
 ## <b>Trank you for visit. ✨</b>
 
 </div>
+<div>
+	<p align="center"><img src="https://profile-counter.glitch.me/{JordyMontalvo}/count.svg" alt="Angel Visitor's Count" /></p>
+</div>
 
 
 
