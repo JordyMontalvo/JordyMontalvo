@@ -82,7 +82,7 @@ Throughout my academic journey, I have actively participated in projects that de
 
 <div align='center'>
 
-## <b>Trank you for visit. ✨</b>
+## <b>Thank you for visit. ✨</b>
 
 </div>
 <div>
