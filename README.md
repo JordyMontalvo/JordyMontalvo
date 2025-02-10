@@ -14,7 +14,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-I am a third-cycle Software Engineering student specializing in Artificial Intelligence at Instituto Senati, with extensive experience in data analysis and programming. I am proficient in essential programming languages such as Python, Java, and PHP, and have a solid understanding of database management.
+I am Software Engineering specializing in Artificial Intelligence at Instituto Senati, with extensive experience in data analysis and programming. I am proficient in essential programming languages such as Python, Java, and PHP, and have a solid understanding of database management.
 
 My expertise extends to agile methodologies, including RUP, Scrum, and XP, and I am well-versed in tools like Visual Studio Code, SQL, and Git. I am known for my proactive attitude, constant motivation to learn new technologies, and creativity in problem-solving.
 
