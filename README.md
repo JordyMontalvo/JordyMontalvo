@@ -74,7 +74,7 @@ Throughout my academic journey, I have actively participated in projects that de
 <li style="list-style: none; margin: 10px 0;">
   <a href="https://portafolio-coral-nu.vercel.app/" target="_blank"
      style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: #ffffff; text-decoration: none; border-radius: 8px; transition: background-color 0.3s ease;">
-    🌐 Ver Portafolio en GitHub
+    🌐 Ver Portafolio
   </a>
 </li>
 
