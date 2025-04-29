@@ -70,6 +70,11 @@ Throughout my academic journey, I have actively participated in projects that de
 <img src="https://img.shields.io/badge/gmail:  Jordy Montalvo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+<li>
+<a href="https://portafolio-coral-nu.vercel.app/" target="_blank"> Portafolio 
+</a>
+</li>
 	
 </ul>
 </div>
