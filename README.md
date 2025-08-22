@@ -6,23 +6,24 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C4FF&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;AI+Enthusiast;Fullstack+Developer;Data+Science+Lover">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C4FF&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;AI+Enthusiast;Fullstack+Developer;Data+Science+Lover;Always+Learning+New+Tech!">
   </a>
 </p>
 
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40"> **About Me**
+## 🚀 About Me  
 
-🎓 Software Engineering specializing in **Artificial Intelligence** at *Instituto Senati*.  
-💻 Experienced in **Python, Java, PHP** and strong knowledge of **databases**.  
-⚡ Skilled in **Agile methodologies** (Scrum, RUP, XP) and tools like **VS Code, SQL, Git**.  
-🚀 Passionate about learning new technologies and solving problems creatively.  
-🌱 Actively working on projects in **AI & Software Development**.  
+- 🎓 Software Engineering specializing in **Artificial Intelligence** at *Instituto Senati*.  
+- 💻 Experienced in **Python, Java, PHP** and strong knowledge of **databases**.  
+- ⚡ Skilled in **Agile methodologies** (Scrum, RUP, XP) and tools like **VS Code, SQL, Git**.  
+- 🌱 Constantly learning **Machine Learning, Data Science & Web Development**.  
+- 🎯 Goal: Build impactful solutions that merge **AI + Software Development**.  
+- 💡 Motto: *“Code with purpose, learn with passion, grow without limits.”*  
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Skills**
+## 🛠️ Skills  
 
 <p align="center">
 
@@ -32,14 +33,43 @@
 **Databases**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://skillicons.dev)  
 
-**Tools & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=express,vscode,git,github,css,html)](https://skillicons.dev)
+**Frameworks & Tools**  
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,react,vue,vscode,git,github,css,html,tailwind,figma)](https://skillicons.dev)
 
 </p>
 
 ---
 
-## 📬 **Contact Me**
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JordyMontalvo&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordyMontalvo&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMontalvo&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JordyMontalvo&theme=tokyonight&margin-w=10&margin-h=10&row=1&no-frame=true"/>
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+🔹 [🌐 Portfolio](https://portafolio-coral-nu.vercel.app/) – My personal portfolio website.  
+🔹 [📊 AI Recommendation System](#) – Intelligent product recommendation using ML.  
+🔹 [💼 Product Management System](#) – PHP & MySQL system for product tracking.  
+
+---
+
+## 📬 Contact Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jordy-joseph-montalvo-" target="_blank">
