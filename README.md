@@ -7,28 +7,12 @@
   <img alt="Jordy Montalvo Hero Banner" src="dark.svg" width="100%">
 </picture>
 
-<!-- Quick Connect Buttons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jordy-joseph-montalvo-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="mailto:jordyjosephmontalvo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/JordyMontalvo?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
-  </a>
-</p>
-
----
+<br/>
 
 ## 🚀 About Me
 I’m **Jordy Montalvo**, a Software Engineer specializing in **Artificial Intelligence** and **Full-Stack Development**. I build scalable, high-performance web applications and autonomous AI agent architectures beyond standard solutions, focusing on clean engineering, real-time interactivity, and enterprise robustness.
 
-I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask), Java Spring Boot, and Node.js**, bridging intelligent backend architectures with fluid, modern frontends. I'm passionate about **AI Multi-Agent Systems, RAG pipelines, and automated workflows** (LangChain, LangGraph, Qdrant, n8n), with solid experience deploying across **AWS, Google Cloud, Vercel, Docker, and Linux environments**.
+I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask/Django), Java Spring Boot, and Node.js**, bridging intelligent backend architectures with fluid, modern frontends. I'm passionate about **AI Multi-Agent Systems, RAG pipelines, and automated workflows** (LangChain, LangGraph, Qdrant, n8n), with solid experience deploying across **AWS, Google Cloud, Vercel, Docker, and Linux environments**.
 
 > 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
 
@@ -37,22 +21,13 @@ I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask), Ja
 - 💬 **Ask me about:** AI Agent workflows (RAG/MCP), Full-Stack architecture, or modern web apps.
 - ✉️ **Contact:** [jordyjosephmontalvo@gmail.com](mailto:jordyjosephmontalvo@gmail.com)
 - 🌐 **Portfolio:** [portafolio-coral-nu.vercel.app](https://portafolio-coral-nu.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/jordy-joseph-montalvo-](https://www.linkedin.com/in/jordy-joseph-montalvo-/)
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,fastapi,java,spring,postgres,mysql,mongodb,supabase,redis,docker,aws,gcp,vercel,git,linux&perline=12" />
-  </a>
-</p>
-
-<details>
-  <summary><b>🔍 View Detailed Categories & Frameworks</b></summary>
-  <br/>
-
-### 🖥️ Frontend
+### 🖥️ Frontend & Creative
 ![React](https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -93,18 +68,6 @@ I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask), Ja
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0D9488?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</details>
-
----
-
-## 🌟 Featured Projects Showcase
-
-| Project | Description | Tech Stack | Status / Links |
-| :--- | :--- | :--- | :--- |
-| 🎵 **Harmony App** | Full-stack platform with dynamic dashboard architecture, secure session management and responsive interfaces. | `Vue 3`, `Node.js`, `CSS3`, `Vercel` | [Live App](https://portafolio-coral-nu.vercel.app/) |
-| 📄 **CV Tailor AI** | Intelligent AI engine that tailors and optimizes developer resumes to match job vacancy requirements in real-time. | `Python`, `HTML5/CSS3`, `LLMs`, `Prompt Engineering` | [Repo](https://github.com/JordyMontalvo) |
-| 🤖 **AI Multi-Agent RAG System** | Autonomous agentic architecture using Model Context Protocol (MCP), vector retrieval and tool calling. | `FastAPI`, `LangChain`, `Qdrant`, `Docker` | [In Development](https://github.com/JordyMontalvo) |
 
 ---
 
