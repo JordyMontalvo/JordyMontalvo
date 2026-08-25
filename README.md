@@ -1,55 +1,75 @@
 <div align="center">
 
-  <!-- BANNER PRINCIPAL -->
-  <img src="https://github.com/JordyMontalvo/JordyMontalvo/raw/master/banner.gif" width="100%" alt="Jordy Montalvo Banner"/>
-
-  <br/>
-
-  <!-- SALUDO ANIMADO -->
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Hello World, I'm <span style="color:#00C4FF;">Jordy Montalvo</span>
-  </h1>
-
-  <!-- TYPING SVG INTERACTIVO -->
-  <a href="https://portafolio-coral-nu.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&multiline=false&width=620&lines=Software+Engineer+%26+Full+Stack+Developer;AI+Agents+%2B+RAG+Architect;Python+%7C+FastAPI+%7C+TypeScript+%7C+React+%7C+Next.js;Docker+%2B+Linux+%2B+AWS+Cloud+Deployments;Building+Scalable+%26+High-Impact+Systems." alt="Typing SVG" />
+  <!-- BANNER PRINCIPAL DE ALTO IMPACTO -->
+  <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
+    <img src="https://github.com/JordyMontalvo/JordyMontalvo/raw/master/banner.gif" width="100%" alt="Jordy Montalvo Banner"/>
   </a>
 
   <br/><br/>
 
-  <!-- BADGES SOCIALES & DISPONIBILIDAD -->
+  <!-- SALUDO Y PRESENTACIÓN -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+    Hey World, I'm <span style="color: #00C4FF;">Jordy Montalvo</span>
+  </h1>
+
+  <!-- TYPING SVG MULTILÍNEA PROFESIONAL -->
+  <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00C4FF&center=true&vCenter=true&multiline=false&width=680&lines=Software+Engineer+%7C+Full+Stack+Developer;AI+Agents+%26+RAG+Architect+(LangChain+%2F+MCP);Python+(FastAPI)+%2B+TypeScript+(React+%2F+Next.js);Cloud+%26+DevOps+(Docker+%2F+Linux+%2F+AWS);Building+Scalable%2C+Secure+%26+High-Performance+Systems." alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- BADGES DE CONTACTO, ESTADO Y REDES -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jordy-joseph-montalvo-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Live_Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=000" alt="Portfolio"/>
     </a>
     <a href="mailto:jordyjosephmontalvo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <img src="https://img.shields.io/badge/Availability-Immediate-00E676?style=for-the-badge&logo=clock&logoColor=000" alt="Available"/>
+    <a href="https://github.com/JordyMontalvo">
+      <img src="https://img.shields.io/badge/Status-Immediate_Availability-00E676?style=for-the-badge&logo=codeforces&logoColor=000" alt="Availability"/>
+    </a>
+    <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru%20🇵🇪-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </p>
 
 </div>
 
 ---
 
-### ⚡ Technical Overview
+### 💻 Developer Profile & Terminal Card
 
 ```typescript
-interface SoftwareEngineer {
-  name: "Jordy Joseph Montalvo Alfaro";
-  title: "Full Stack Engineer & AI Specialist";
-  education: "Software Engineering with AI @ SENATI (2021 - 2025)";
-  location: "Lima, Peru 🇵🇪 (Open to Remote / Hybrid / On-site)";
-  coreStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Vite"];
-    backend: ["Python (FastAPI / Flask)", "Node.js (Express)", "Java (Spring Boot)"];
-    aiAndRAG: ["LangChain", "LangGraph", "MCP (Model Context Protocol)", "Claude Code", "Qdrant", "pgvector"];
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"];
-    devopsAndCloud: ["Docker", "Linux (Ubuntu/Debian)", "AWS", "CI/CD (GitHub Actions)"];
+/**
+ * @file JordyMontalvo.ts
+ * @description Senior Profile Configuration & Architectural Overview
+ */
+
+interface Engineer {
+  fullName: "Jordy Joseph Montalvo Alfaro";
+  role: "Full Stack Software Engineer & AI Systems Specialist";
+  education: "Software Engineering with Artificial Intelligence @ SENATI (2021 - 2025)";
+  location: "Lima, Peru (Available for 100% Remote / Hybrid / On-site roles)";
+  experienceLevel: "2+ Years in Production Systems & Enterprise Software";
+  
+  stackCapabilities: {
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Vite", "Astro", "HTML5/CSS3"];
+    backend: ["Python (FastAPI, Flask)", "Node.js (Express)", "Java (Spring Boot)", "REST APIs"];
+    aiAndAgents: ["LangChain", "LangGraph", "Model Context Protocol (MCP)", "Claude Code", "Qdrant", "pgvector", "RAG"];
+    persistence: ["PostgreSQL", "MySQL", "MongoDB", "Redis (Cache/Queues)", "SQL Server"];
+    cloudAndDevOps: ["Docker", "Docker Compose", "Linux (Ubuntu/Debian)", "AWS (EC2, S3, RDS, Lambda)", "GitHub Actions"];
   };
-  currentFocus: "Engineering Autonomous Agent Workflows & High-Throughput Web Platforms";
+
+  engineeringPillars: [
+    "Clean Architecture & SOLID Principles",
+    "Autonomous Agentic Workflows & Multi-Tool Orchestration",
+    "High-Concurrency Backend Microservices",
+    "Rigorous Code Review & Automated Vulnerability Auditing"
+  ];
+  
+  motto: "Code with architectural purpose, engineer with passion, deploy with excellence.";
 }
