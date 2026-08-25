@@ -1,26 +1,26 @@
 <div align="center">
 
-  <!-- BANNER PRINCIPAL DE ALTO IMPACTO -->
+  <!-- BANNER CIBERNETICO PRINCIPAL -->
   <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
     <img src="https://github.com/JordyMontalvo/JordyMontalvo/raw/master/banner.gif" width="100%" alt="Jordy Montalvo Banner"/>
   </a>
 
   <br/><br/>
 
-  <!-- SALUDO Y PRESENTACIÓN -->
+  <!-- SALUDO ANIMADO -->
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
     Hey World, I'm <span style="color: #00C4FF;">Jordy Montalvo</span>
   </h1>
 
-  <!-- TYPING SVG MULTILÍNEA PROFESIONAL -->
+  <!-- TYPING SVG DINÁMICO MULTICOLOR -->
   <a href="https://portafolio-coral-nu.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00C4FF&center=true&vCenter=true&multiline=false&width=680&lines=Software+Engineer+%7C+Full+Stack+Developer;AI+Agents+%26+RAG+Architect+(LangChain+%2F+MCP);Python+(FastAPI)+%2B+TypeScript+(React+%2F+Next.js);Cloud+%26+DevOps+(Docker+%2F+Linux+%2F+AWS);Building+Scalable%2C+Secure+%26+High-Performance+Systems." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&multiline=false&width=720&lines=Full+Stack+Software+Engineer+%26+AI+Specialist;AI+Agents+%26+RAG+Architect+(LangChain+%2F+MCP);Python+(FastAPI)+%2B+TypeScript+(React+%2F+Next.js);Cloud+%26+DevOps+(Docker+%2F+Linux+%2F+AWS);Turning+complex+ideas+into+scalable+code!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- BADGES DE CONTACTO, ESTADO Y REDES -->
+  <!-- BADGES DE CONTACTO & DISPONIBILIDAD INMEDIATA -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jordy-joseph-montalvo-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,9 +31,7 @@
     <a href="mailto:jordyjosephmontalvo@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/JordyMontalvo">
-      <img src="https://img.shields.io/badge/Status-Immediate_Availability-00E676?style=for-the-badge&logo=codeforces&logoColor=000" alt="Availability"/>
-    </a>
+    <img src="https://img.shields.io/badge/Status-Immediate_Availability-00E676?style=for-the-badge&logo=codeforces&logoColor=000" alt="Availability"/>
     <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru%20🇵🇪-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </p>
 
@@ -41,35 +39,36 @@
 
 ---
 
-### 💻 Developer Profile & Terminal Card
+### 🎮 About Me in Code & Fun Facts
 
 ```typescript
 /**
- * @file JordyMontalvo.ts
- * @description Senior Profile Configuration & Architectural Overview
+ * @file JordyDeveloper.ts
+ * @author Jordy Montalvo <jordyjosephmontalvo@gmail.com>
  */
 
-interface Engineer {
-  fullName: "Jordy Joseph Montalvo Alfaro";
-  role: "Full Stack Software Engineer & AI Systems Specialist";
-  education: "Software Engineering with Artificial Intelligence @ SENATI (2021 - 2025)";
-  location: "Lima, Peru (Available for 100% Remote / Hybrid / On-site roles)";
-  experienceLevel: "2+ Years in Production Systems & Enterprise Software";
+import { Engineer, AIArchitect, ProblemSolver } from "jordy/core";
+
+export class JordyMontalvo extends Engineer implements AIArchitect, ProblemSolver {
+  public readonly name: string = "Jordy Joseph Montalvo Alfaro";
+  public readonly role: string = "Full Stack Engineer & AI Specialist";
+  public readonly education: string = "Software Engineering with AI @ SENATI (2021 - 2025)";
+  public readonly location: string = "Lima, Peru 🇵🇪 (Remote / Hybrid / On-site)";
   
-  stackCapabilities: {
-    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Vite", "Astro", "HTML5/CSS3"];
-    backend: ["Python (FastAPI, Flask)", "Node.js (Express)", "Java (Spring Boot)", "REST APIs"];
-    aiAndAgents: ["LangChain", "LangGraph", "Model Context Protocol (MCP)", "Claude Code", "Qdrant", "pgvector", "RAG"];
-    persistence: ["PostgreSQL", "MySQL", "MongoDB", "Redis (Cache/Queues)", "SQL Server"];
-    cloudAndDevOps: ["Docker", "Docker Compose", "Linux (Ubuntu/Debian)", "AWS (EC2, S3, RDS, Lambda)", "GitHub Actions"];
+  public currentFocus = [
+    "🤖 Architecting Autonomous AI Multi-Agent Systems (LangGraph & MCP)",
+    "⚡ Building high-throughput Web Apps with Next.js, FastAPI & PostgreSQL",
+    "☁️ Automating cloud deployments with Docker, GitHub Actions & AWS"
+  ];
+
+  public funFacts = {
+    coffeePerHour: 2.5,
+    favoriteKeyCombo: "Cmd + Shift + P / Ctrl + Shift + P",
+    codingMusic: "Synthwave / Cyberpunk / Lofi Beats",
+    superpower: "Writing clean code and auditing AI-generated diffs with surgical precision"
   };
 
-  engineeringPillars: [
-    "Clean Architecture & SOLID Principles",
-    "Autonomous Agentic Workflows & Multi-Tool Orchestration",
-    "High-Concurrency Backend Microservices",
-    "Rigorous Code Review & Automated Vulnerability Auditing"
-  ];
-  
-  motto: "Code with architectural purpose, engineer with passion, deploy with excellence.";
+  public getStatus(): string {
+    return "Ready to build impactful, robust, and scalable solutions! 🚀";
+  }
 }
