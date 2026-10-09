@@ -36,7 +36,7 @@ I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask), Ja
 - 📍 **Location:** Lima, Peru 🇵🇪 (Available for Remote / Hybrid / On-site).
 - 💬 **Ask me about:** AI Agent workflows (RAG/MCP), Full-Stack architecture, or modern web apps.
 - ✉️ **Contact:** [jordyjosephmontalvo@gmail.com](mailto:jordyjosephmontalvo@gmail.com)
-- 🌐 **Portfolio:** [portafolio-coral-nu.vercel.app](https://portafolio-coral-nu.vercel.app/)
+- 🌐 **Portfolio:** [portafolio-coral-nu.vercel.app](https://www.jordymont.tech/)
 
 ---
 
