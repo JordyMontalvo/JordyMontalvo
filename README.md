@@ -102,7 +102,7 @@ I work extensively with **React, Next.js, TypeScript, Python (FastAPI/Flask), Ja
 
 | Project | Description | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
-| 🎵 **Harmony App** | Full-stack platform with dynamic dashboard architecture, secure session management and responsive interfaces. | `Vue 3`, `Node.js`, `CSS3`, `Vercel` | [Live App](https://www.jordymont.tech/) |
+| 🎵 **Harmony App** | Full-stack platform with dynamic dashboard architecture, secure session management and responsive interfaces. | `Vue 3`, `Node.js`, `CSS3`, `Vercel` | [Live App](https://harmonyy-x5sr.vercel.app/dashboard) |
 | 📄 **CV Tailor AI** | Intelligent AI engine that tailors and optimizes developer resumes to match job vacancy requirements in real-time. | `Python`, `HTML5/CSS3`, `LLMs`, `Prompt Engineering` | [Repo](https://github.com/JordyMontalvo) |
 | 🤖 **AI Multi-Agent RAG System** | Autonomous agentic architecture using Model Context Protocol (MCP), vector retrieval and tool calling. | `FastAPI`, `LangChain`, `Qdrant`, `Docker` | [In Development](https://github.com/JordyMontalvo) |
 
